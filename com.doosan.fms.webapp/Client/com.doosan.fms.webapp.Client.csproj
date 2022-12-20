@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\bootstrap\bootstrap.min.css.map" />
+    <None Include="wwwroot\css\open-iconic\FONT-LICENSE" />
+    <None Include="wwwroot\css\open-iconic\font\fonts\open-iconic.svg" />
+    <None Include="wwwroot\css\open-iconic\ICON-LICENSE" />
+    <None Include="wwwroot\css\open-iconic\README.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="5.0.17" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="5.0.17" PrivateAssets="all" />
+    <PackageReference Include="MudBlazor" Version="5.2.4" />
+    <PackageReference Include="System.Net.Http.Json" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\com.doosan.fms.model\com.doosan.fms.model.csproj" />
+    <ProjectReference Include="..\..\com.doosan.fms.signalRHub\com.doosan.fms.signalRHub.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Pages\Fms\Cls\" />
+    <Folder Include="Pages\Fms\Monitoring\Alarm\" />
+    <Folder Include="Pages\Fms\Monitoring\Command\" />
+    <Folder Include="Pages\Fms\Monitoring\Communication\" />
+    <Folder Include="Pages\Fms\Monitoring\Log\" />
+    <Folder Include="Pages\Fms\Monitoring\Montoring\" />
+    <Folder Include="Pages\Fms\Monitoring\Port\" />
+    <Folder Include="Pages\Fms\Monitoring\Report\" />
+    <Folder Include="Pages\Fms\Monitoring\User\" />
+    <Folder Include="Pages\Fms\Monitoring\Vehicle\" />
+    <Folder Include="SharedComponent\SharedTirgger\" />
+    <Folder Include="wwwroot\monitoring\js\extern-lib\" />
+  </ItemGroup>
+
+</Project>

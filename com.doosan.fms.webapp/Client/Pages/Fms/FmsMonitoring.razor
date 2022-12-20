@@ -1,0 +1,60 @@
+﻿@page "/fms/monitoring"
+
+@using com.doosan.fms.webapp.Client.ComponentLibrary.ComponentCard.RazorPage
+
+
+<MudContainer MaxWidth="MaxWidth.ExtraExtraLarge" Fixed="true" Style="padding: 0px !important; margin:0px !important;">
+    <div class="ws-body">
+        <div style="height:100%; position:relative">
+            <div class="canvas-body" id="@CANVAS_ID">
+            </div>
+        </div>
+    </div>
+
+    <div class="ws-ui">
+        <div class="ws-ui-menu-button">
+            <MudButton OnClick="OnMenuClick">
+                <MudIcon Icon="@Icons.Material.Filled.Menu" Size="Size.Large" Style="color:white" />
+            </MudButton>
+        </div>
+        <div class="ws-ui-menu" style="visibility:@GetMenuVisiblity()">
+            <MudGrid Style="width:70% !important">
+                <MudPaper Class="d-flex flex-column align-center justify-center mud-width-full py-8">
+                    <MudItem xs="12">
+                        <MudGrid Justify="Justify.Center">
+                            @foreach (var cardObject in _cardMenus.Values)
+                            {
+                                <MudItem xs="@MENU_SIZE">
+                                    <ComponentCard CardDataObject="cardObject"/>
+                                </MudItem>
+                            }
+                        </MudGrid>
+                    </MudItem>
+                </MudPaper>
+            </MudGrid>
+        </div>
+    </div>
+</MudContainer>
+
+@code {
+    public bool click = false;
+    public void OnMenuClick()
+    {
+        if (click == false)
+        {
+            click = true;
+        }
+        else
+        {
+            click = false;
+        }
+    }
+
+    public string GetMenuVisiblity()
+    {
+        if (click) return "inherits";
+        else return "hidden";
+    }
+
+
+}

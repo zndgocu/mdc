@@ -1,0 +1,50 @@
+﻿@using com.doosan.fms.webapp.Client.ComponentLibrary.CommonDataObject.Enum
+@using com.doosan.fms.webapp.Client.ComponentLibrary.CommonDataObject.Args
+
+@if (CardDataObject != null)
+{
+    <MudCard Style="height:100%">
+        @if (CardDataObject.HrefImage != null)
+        {
+            @if (CardDataObject.HrefImage.ImgType == ImageType.base64)
+            {
+                <img src="@CardDataObject.GetImageSrc())" />
+            }
+            else if (CardDataObject.HrefImage.ImgType == ImageType.Icon)
+            {
+                <MudIcon Icon="@CardDataObject.HrefImage.ImgResource" Color="Color.Info"/>
+            }
+            @if (CardDataObject.HrefImage.IsText())
+            {
+                <MudText Typo="Typo.h6">@CardDataObject.HrefImage.Text</MudText>
+            }
+        }
+        <MudCardContent>
+            @if (CardDataObject.HrefArgss != null)
+            {
+                @if (CardDataObject.HrefArgss.Count > 0)
+                {
+                    @foreach (HrefArgs args in CardDataObject.HrefArgss)
+                    {
+                        <MudNavLink Match="NavLinkMatch.All" OnClick="@(() => CardDataObject.OnEventClick(args))">
+                            <MudText Typo="Typo.body2">@args.GetText()</MudText>
+                        </MudNavLink>
+                    }
+                }
+            }
+        </MudCardContent>
+
+    </MudCard>
+}
+else
+{
+
+}
+
+
+@code {
+    //<MudCardActions>
+    //    <MudButton Variant="Variant.Text" Color="Color.Primary">Share</MudButton>
+    //    <MudButton Variant="Variant.Text" Color="Color.Primary">Learn More</MudButton>
+    //</MudCardActions>
+}

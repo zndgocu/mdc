@@ -1,0 +1,29 @@
+﻿@if (InputFormDataObject != null)
+{
+    foreach (var input in InputFormDataObject.InputDatas)
+    {
+        <MudTextField @bind-Value="@input.InputText"
+                      Label="@GetLangWord(input.InputDescText)"
+                      Variant="Variant.Text"
+                      Adornment="Adornment.End"
+                      AdornmentIcon="@input.GetInputIcon()"
+                      InputType="@input.InputType" Margin="Margin.Dense"/>
+    }
+
+    <div style="text-align-last: center">
+        @foreach (var cmdButton in InputFormDataObject.ButtonDatas)
+        {
+            <MudButton Variant="Variant.Filled"
+                       DisableElevation="true" 
+                       Size="Size.Small" 
+                       Color="Color.Info" 
+                       OnClick="@(() => OnButtonClick(cmdButton))">@GetLangWord(cmdButton.ButtonText)</MudButton>
+        }
+    </div>
+}
+
+
+
+@code {
+
+}

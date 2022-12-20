@@ -1,0 +1,24 @@
+﻿@using com.doosan.fms.webapp.Client.ComponentLibrary.ComponentCardGrid.DataObject
+
+@if (CardGridDataObject != null)
+{
+    <MudGrid Style="width:100% !important">
+        <MudPaper Class="d-flex flex-column align-center justify-center mud-width-full py-8">
+            <MudItem xs="@CardGridDataObject.CardGridProperties.Xs">
+                <MudGrid Justify="@CardGridDataObject.CardGridProperties.Justify">
+                    @foreach (var cardData in CardGridDataObject.CardData)
+                    {
+                        <MudItem xs="@cardData.Xs">
+                            <MudIcon Icon="@cardData.Icon" Size="Size.Small" @onclick="(async () => await OnClickIcon(cardData))" />
+                            <MudText Typo="Typo.caption">@cardData.Text</MudText>
+                        </MudItem>
+                    }
+                </MudGrid>
+            </MudItem>
+        </MudPaper>
+    </MudGrid>
+}
+
+@code{
+
+}

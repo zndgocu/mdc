@@ -1,0 +1,23 @@
+﻿@using com.doosan.fms.webapp.Client.RazorLibrary.Abstract
+@inherits FmsRazorAbstract
+
+
+
+<MudIconButton Icon="@GetLangCss()" Color="Color.Inherit" OnClick="@((e) => OnLangPanelButtonClick())" />
+<MudPopover Open="@_openLangPanel" OverflowBehavior="OverflowBehavior.FlipAlways" AnchorOrigin="Origin.BottomCenter" TransformOrigin="Origin.TopCenter">
+    <MudList Clickable="true">
+        @foreach (var ntnSup in GetLangSupData())
+        {
+            <MudListItem Text="@ntnSup.Name" Icon="@ntnSup.GetCss()" OnClick="@((e) => OnLangChangeButtonClick(ntnSup))" Class="link-text" />
+        }
+    </MudList>
+</MudPopover>
+
+<MudIcon Icon="@GetLoginIcon()" Color="@GetLoginIconColor()" />
+<MudText Style="color:white">@GetLoginId()</MudText>
+<MudButton Variant="Variant.Filled" OnClick="OnLoginButtonClick" DisableElevation="true" Size="Size.Small" Color="Color.Info">@GetLoginButtonText()</MudButton>
+
+
+@code {
+
+}

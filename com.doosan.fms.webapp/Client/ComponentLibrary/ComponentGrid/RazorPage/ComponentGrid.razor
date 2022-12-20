@@ -1,0 +1,79 @@
+﻿@using com.doosan.fms.webapp.Client.ComponentLibrary.ComponentGrid.DataObject
+@typeparam Titem
+
+<MudTable T="Dictionary<string, string>"
+          @ref="@_refTable"
+          @bind-SelectedItems="_selectedItems"
+          Items="@GridDataObject.GridData.Datas"
+          Loading="@GridDataObject.GridProperties.LoadingAnim"
+          Dense="@GridDataObject.GridProperties.Dense"
+          Hover="@GridDataObject.GridProperties.Hover"
+          CanCancelEdit="@GridDataObject.GridProperties.CancelEdit"
+          ReadOnly="@GetReadOnly()"
+          MultiSelection="@GetMultiSelect()"
+          IsEditRowSwitchingBlocked="true"
+          SortLabel="Sort By"
+          Filter="new Func<Dictionary<string, string>, bool>(FilterFunc)"
+          RowEditPreview="BackupItem"
+          RowEditCancel="ResetItemToOriginalValues"
+          RowEditCommit="(async (element) => await ItemHasBeenCommitted(element))"
+          CommitEditTooltip="Commit Edit"
+          CustomHeader="true">
+    <ToolBarContent>
+        <MudText Typo="Typo.h6">@GridDataObject.HeaderText</MudText>
+        <MudSpacer />
+        <MudTextField @bind-Value="@GridDataObject.SearchText"
+                      Placeholder="Search"
+                      Adornment="Adornment.Start"
+                      AdornmentIcon="@Icons.Material.Filled.Search"
+                      IconSize="Size.Medium"
+                      Class="mt-0">
+        </MudTextField>
+        @if (GridDataObject.GridProperties.AddRow)
+        {
+            <MudSpacer />
+            <MudButton Color="Color.Primary" Variant="Variant.Filled" DisableElevation="true" @onclick="(async () => await AddRow())">AddRow</MudButton>
+        }
+
+        @if (GridDataObject.GridProperties.RemoveRow)
+        {
+            <MudSpacer />
+            <MudBadge Content="@_selectedItems.Count" Color="Color.Warning" Class="mx-6 my-4">
+                <MudButton Color="Color.Warning" Variant="Variant.Filled" DisableElevation="true" @onclick="(async () => await RemoveRow())">Remove</MudButton>
+            </MudBadge>
+        }
+    </ToolBarContent>
+    <HeaderContent>
+        <MudTHeadRow IsCheckable="true">
+            @foreach (var items in GridDataObject.GridData.BindProps)
+            {
+                <MudTh><MudTableSortLabel SortBy="new Func<Dictionary<string, string>, object>(x => x[items])">@items</MudTableSortLabel></MudTh>
+            }
+        </MudTHeadRow>
+    </HeaderContent>
+    <RowTemplate>
+        @foreach (var items in GridDataObject.GridData.BindProps)
+        {
+            <MudTd DataLabel="@items">@context[items]</MudTd>
+        }
+    </RowTemplate>
+    <RowEditingTemplate>
+        @foreach (var items in GridDataObject.GridData.BindProps)
+        {
+            <MudTd DataLabel="@items">
+                <MudTextField @bind-Value="@context[items]" />
+            </MudTd>
+        }
+    </RowEditingTemplate>
+    <PagerContent>
+        <MudTablePager />
+    </PagerContent>
+</MudTable>
+
+@if (GridDataObject.GridProperties.ReadOnly == false)
+{
+    <MudSwitch T="@bool" Checked="@_editMode" Color="Color.Primary" CheckedChanged="@((e)=>Toggle(e, "EDIT"))">EditMode</MudSwitch>
+}
+
+@code {
+}

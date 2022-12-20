@@ -1,0 +1,3307 @@
+[
+  {
+    "prefabType": 0,
+    "prefabKey": "43bd8fbd-7a61-401b-bff9-92ebede07514",
+    "bindingKey": "02056",
+    "position": {
+      "x": -180,
+      "y": 0,
+      "z": 110
+    },
+    "rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "fc7a809a-b772-4bc1-afae-f9a07a81d7f6",
+    "bindingKey": "02054",
+    "position": {
+      "x": -160,
+      "y": 0,
+      "z": 90
+    },
+    "rotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "a534201a-dba4-465c-a93a-d071f0a1ad30",
+    "bindingKey": "02053",
+    "position": {
+      "x": -160,
+      "y": 0,
+      "z": 80
+    },
+    "rotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "41886b50-f38e-419c-8962-8809e7177b1a",
+    "bindingKey": "02051",
+    "position": {
+      "x": -140,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "f883c3d9-8ae7-44bb-aa11-576e4cda9ca1",
+    "bindingKey": "01021",
+    "position": {
+      "x": -120,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "2cd6dc45-6f47-4eb0-b21d-7c073858633a",
+    "bindingKey": "01022",
+    "position": {
+      "x": -110,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "4c49e97e-0997-4bea-aaf1-5bbf97bccefd",
+    "bindingKey": "01023",
+    "position": {
+      "x": -110,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 270,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "eeb5e6be-3a24-4802-851d-8eb68ec9c30e",
+    "bindingKey": "01024",
+    "position": {
+      "x": -120,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 270,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "a7808bf7-5e26-40e3-b2e6-4b3813bd53be",
+    "bindingKey": "01011",
+    "position": {
+      "x": -120,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "1a28e7cf-3374-4cf5-91c8-2cc6e85d66c7",
+    "bindingKey": "01012",
+    "position": {
+      "x": -110,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "443b8498-2b8b-4432-b128-6ee35eadcacc",
+    "bindingKey": "01013",
+    "position": {
+      "x": -110,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 270,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "9cb1e8c1-7972-49ab-aae8-2a19691099d6",
+    "bindingKey": "01014",
+    "position": {
+      "x": -120,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 270,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "ac82c7f7-597f-4ad2-97af-1ca462a67a03",
+    "bindingKey": "01001",
+    "position": {
+      "x": -120,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "a922f071-9934-499c-9a76-4de9fa78ac95",
+    "bindingKey": "01002",
+    "position": {
+      "x": -110,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "875689fe-f5df-4a1f-99db-964cd6657412",
+    "bindingKey": "01004",
+    "position": {
+      "x": -120,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 270,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "9deee742-f3f7-4183-966f-d5b8e68839f3",
+    "bindingKey": "01003",
+    "position": {
+      "x": -110,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 270,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "ba912f22-0e37-49b1-a845-0880ff48ac2c",
+    "bindingKey": "02058",
+    "position": {
+      "x": -200,
+      "y": 0,
+      "z": 130
+    },
+    "rotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "f3097bb3-0367-468a-b5c0-114a5c795ed2",
+    "bindingKey": "02061",
+    "position": {
+      "x": -140,
+      "y": 0,
+      "z": 30
+    },
+    "rotation": {
+      "x": 0,
+      "y": 270,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "ea2a633c-4f33-4942-b31c-a9b6459244ed",
+    "bindingKey": "02062",
+    "position": {
+      "x": -150,
+      "y": 0,
+      "z": 30
+    },
+    "rotation": {
+      "x": 0,
+      "y": 270,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 0,
+    "prefabKey": "76747c30-3e76-442f-a578-fb3b0b2eb6b4",
+    "bindingKey": "02065",
+    "position": {
+      "x": -190,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 270,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "71e5ee42-c7c3-4dac-8456-4ff434aa992a",
+    "bindingKey": "",
+    "position": {
+      "x": -100,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "17092d61-8392-4d01-a46a-bbada6bb9c9c",
+    "bindingKey": "",
+    "position": {
+      "x": -90,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "a7051c44-3580-48d4-ade0-b66cb66fc3e5",
+    "bindingKey": "",
+    "position": {
+      "x": -80,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "44ffaab0-e399-457a-9d33-c10f00171e7d",
+    "bindingKey": "",
+    "position": {
+      "x": -70,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "6851e40c-23cc-4c81-a5e5-dcbf633d7741",
+    "bindingKey": "",
+    "position": {
+      "x": -60,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "e8cfcf09-87e2-4081-8850-d5f9806b29b2",
+    "bindingKey": "",
+    "position": {
+      "x": -50,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "b86545f8-4650-4b9f-9e45-cdb238333368",
+    "bindingKey": "",
+    "position": {
+      "x": -40,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "04f8bad8-3e56-49f8-8883-ba03d83b2768",
+    "bindingKey": "",
+    "position": {
+      "x": -30,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "39df0d71-2591-4718-915a-3d1f7e03a6a9",
+    "bindingKey": "",
+    "position": {
+      "x": -20,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "6657c899-c83e-40e2-9043-7d8a8fbbcfeb",
+    "bindingKey": "",
+    "position": {
+      "x": -10,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "46a03698-7f5f-422c-a6e1-a9e2e28b67a8",
+    "bindingKey": "",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "d3b0630b-2ec9-4272-b2b3-f532c1d0c984",
+    "bindingKey": "",
+    "position": {
+      "x": 10,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "e02754ab-b4b8-4391-95c8-c13ec713c044",
+    "bindingKey": "",
+    "position": {
+      "x": 20,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "91929401-f339-49a9-8dd8-070a9bcb7396",
+    "bindingKey": "",
+    "position": {
+      "x": 30,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "77419e8b-fa5e-43a7-9065-487a629dc5ca",
+    "bindingKey": "",
+    "position": {
+      "x": 40,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "ea3d7245-babe-415c-8de2-e36e93ac6f6a",
+    "bindingKey": "",
+    "position": {
+      "x": 50,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "dc9b2940-ef76-4e20-92d1-88cb305c4c75",
+    "bindingKey": "",
+    "position": {
+      "x": 60,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "6b40ee4c-0cc4-4f98-93c4-11d615aa86cc",
+    "bindingKey": "",
+    "position": {
+      "x": 70,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "8101cea5-92db-4e82-a02e-9506b7547dd8",
+    "bindingKey": "",
+    "position": {
+      "x": 80,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "418ae294-50b1-49e0-8822-a8640141c025",
+    "bindingKey": "",
+    "position": {
+      "x": 90,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "cb2173ad-434b-4fc0-a63f-231b157c0385",
+    "bindingKey": "",
+    "position": {
+      "x": 100,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "599e1ef0-459c-48a4-80b5-b4fea2ec2f56",
+    "bindingKey": "",
+    "position": {
+      "x": 110,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "c75d002c-f116-48d6-b388-4ef202b99f46",
+    "bindingKey": "",
+    "position": {
+      "x": 120,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "a7c0bf30-215c-4960-ab4c-f3dbe0be3b5d",
+    "bindingKey": "",
+    "position": {
+      "x": -100,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "a663117f-730e-4e7a-86fc-2fe3153d47c0",
+    "bindingKey": "",
+    "position": {
+      "x": -90,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "5ae6aee8-c6e9-4ab3-b7c6-b446f7aedb0f",
+    "bindingKey": "",
+    "position": {
+      "x": -80,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "842e2b97-4ec8-4606-8eeb-f81cb4bbb424",
+    "bindingKey": "",
+    "position": {
+      "x": -70,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "60400a96-1ad9-497e-a224-21dfb7ad2e8e",
+    "bindingKey": "",
+    "position": {
+      "x": -60,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "08c3bc9d-04ec-4eac-9ee7-4168a689cfdb",
+    "bindingKey": "",
+    "position": {
+      "x": -50,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "84e5c6e5-57e2-4e58-a55c-9cbc4832da5b",
+    "bindingKey": "",
+    "position": {
+      "x": -40,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "7280848c-d473-4630-8da8-ae30dbb23a8d",
+    "bindingKey": "",
+    "position": {
+      "x": -30,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "98177d85-bd53-4229-9bf7-d9a2d18ea027",
+    "bindingKey": "",
+    "position": {
+      "x": -20,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "35f9fd0c-e6da-44a8-bf40-735dc3428d47",
+    "bindingKey": "",
+    "position": {
+      "x": -10,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "c10871ef-e7f0-4a27-8b45-1e81cb4d1afd",
+    "bindingKey": "",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "5e784170-2ba1-48e3-adb4-69cf1cacd748",
+    "bindingKey": "",
+    "position": {
+      "x": 10,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "0c738127-9ece-4a53-aa97-fac952f579ab",
+    "bindingKey": "",
+    "position": {
+      "x": 20,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "852c3c26-6cc1-4f71-94a8-80718d39c11e",
+    "bindingKey": "",
+    "position": {
+      "x": 30,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "7cbeb2c3-5971-4452-803f-9525c5770b3c",
+    "bindingKey": "",
+    "position": {
+      "x": 40,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "368df1fa-6082-42e0-b2f5-87117999b1ef",
+    "bindingKey": "",
+    "position": {
+      "x": 50,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "ff0a4272-753a-4c36-905e-52596557f44e",
+    "bindingKey": "",
+    "position": {
+      "x": 60,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "986a568a-8453-4483-b93e-d67b917fd747",
+    "bindingKey": "",
+    "position": {
+      "x": 70,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "31d22193-8e31-44c6-a015-ad65aba3392a",
+    "bindingKey": "",
+    "position": {
+      "x": 80,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "ae8b4db9-79a0-4a98-bbcd-26c6a9dcb5ea",
+    "bindingKey": "",
+    "position": {
+      "x": 90,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "16449d12-6579-41dc-a5d7-f38a821bb102",
+    "bindingKey": "",
+    "position": {
+      "x": 100,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "f2ef7703-2aea-49e6-8a78-97fa4b89ba3e",
+    "bindingKey": "",
+    "position": {
+      "x": 110,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "f6c448a4-0a58-4d82-933c-9569874a101a",
+    "bindingKey": "",
+    "position": {
+      "x": 120,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "214e39ef-a5ae-4234-adbd-c518e56a78a2",
+    "bindingKey": "",
+    "position": {
+      "x": 130,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "f398a3d4-8e48-45f3-8e41-1a0c2c1c69a3",
+    "bindingKey": "",
+    "position": {
+      "x": 140,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "ef7092e8-ae88-4d74-ab0a-e61d25aa658d",
+    "bindingKey": "",
+    "position": {
+      "x": 150,
+      "y": 0,
+      "z": 40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "8f177172-1430-4b1c-a8a8-2000acf9f0cb",
+    "bindingKey": "",
+    "position": {
+      "x": 130,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "9fdd0217-0041-4f95-a161-8545085762c6",
+    "bindingKey": "",
+    "position": {
+      "x": 140,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "22768309-60d0-470d-81e4-458967f10a3b",
+    "bindingKey": "",
+    "position": {
+      "x": 150,
+      "y": 0,
+      "z": 60
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "ef943cbf-ac1b-4f76-8520-0e3ef4123e04",
+    "bindingKey": "",
+    "position": {
+      "x": -100,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "044fe645-82ab-4702-b514-80d951afa5e9",
+    "bindingKey": "",
+    "position": {
+      "x": -90,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "82a6fa23-7c90-40c3-8969-0307bf651423",
+    "bindingKey": "",
+    "position": {
+      "x": -80,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "83bb7048-cdb2-438f-a49e-3afb60ec421a",
+    "bindingKey": "",
+    "position": {
+      "x": -70,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "a28507dd-2aa4-4ac9-910c-fa078679564c",
+    "bindingKey": "",
+    "position": {
+      "x": -60,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "60b1d009-b39e-429c-a9a0-5ed212030eb6",
+    "bindingKey": "",
+    "position": {
+      "x": -50,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "f084d278-9b29-467f-b22e-b12e099eef5d",
+    "bindingKey": "",
+    "position": {
+      "x": -40,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "0d79a06c-091f-4ea9-9810-802ca6bac31a",
+    "bindingKey": "",
+    "position": {
+      "x": -30,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "24c4f39e-0327-4264-b2f5-444043a6a7ab",
+    "bindingKey": "",
+    "position": {
+      "x": -20,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "93c158a2-a403-41e8-961f-7a77b8196dc3",
+    "bindingKey": "",
+    "position": {
+      "x": -10,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "7b3c2570-94c3-40fc-b7d5-8a8c123d04b7",
+    "bindingKey": "",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "628be3e4-fbb3-482e-97f3-4d5b0a18d158",
+    "bindingKey": "",
+    "position": {
+      "x": 10,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "4ccf8117-d8e7-4124-b98d-f8ae37c41f85",
+    "bindingKey": "",
+    "position": {
+      "x": 20,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "41db5e8a-1342-45d1-87b6-e8898a42e1ed",
+    "bindingKey": "",
+    "position": {
+      "x": 30,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "cceb4aa9-da62-4aea-80ab-581336254911",
+    "bindingKey": "",
+    "position": {
+      "x": 40,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "a324b64d-12ee-42ed-9355-cfcf1d7e46fb",
+    "bindingKey": "",
+    "position": {
+      "x": 50,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "1a7dc194-8a79-4119-997a-30761a97ffc3",
+    "bindingKey": "",
+    "position": {
+      "x": 60,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "08d04353-90d9-4c77-ac68-3f2a9bcb1fae",
+    "bindingKey": "",
+    "position": {
+      "x": 70,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "95a9aeea-036a-486a-8b8c-2cbe38fe9278",
+    "bindingKey": "",
+    "position": {
+      "x": 80,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "85748fd8-1f76-41fc-816f-1c988a7aebeb",
+    "bindingKey": "",
+    "position": {
+      "x": 90,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "3a15b1bb-4c3e-4cf0-82e3-f998f3e0242c",
+    "bindingKey": "",
+    "position": {
+      "x": 100,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "31562ffb-e2d8-4c22-9677-38c0214c7e9f",
+    "bindingKey": "",
+    "position": {
+      "x": 110,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "73fd24e5-23ac-478d-a3f7-e51ab791dfdc",
+    "bindingKey": "",
+    "position": {
+      "x": 120,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "898e8e60-5b8e-460b-8e5d-41520b390411",
+    "bindingKey": "",
+    "position": {
+      "x": 130,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "c1e10c87-f450-46e0-b852-d4018cdc513b",
+    "bindingKey": "",
+    "position": {
+      "x": 140,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "7bd1a561-05bd-4210-bcc3-45ad3f234e25",
+    "bindingKey": "",
+    "position": {
+      "x": 150,
+      "y": 0,
+      "z": 20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "d736a07a-d50d-4bcf-8115-0e82ec99382a",
+    "bindingKey": "",
+    "position": {
+      "x": -100,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "6b34805e-7034-4e9b-9978-92ed0ce5ed0a",
+    "bindingKey": "",
+    "position": {
+      "x": -90,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "8a5d32a7-70b7-45e8-b012-d45cd3bb3613",
+    "bindingKey": "",
+    "position": {
+      "x": -80,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "cb9346ec-860d-4160-93d3-b86fa536f9b0",
+    "bindingKey": "",
+    "position": {
+      "x": -70,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "f39a8167-3c87-485a-ac5a-834e588ad700",
+    "bindingKey": "",
+    "position": {
+      "x": -60,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "f4f71ba1-250c-4650-a84e-7e706c53f97a",
+    "bindingKey": "",
+    "position": {
+      "x": -50,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "281f348a-e4ed-4d18-90f5-7d1ee956bb23",
+    "bindingKey": "",
+    "position": {
+      "x": -40,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "975065c7-ca5f-43ea-a41a-33e6570d03c8",
+    "bindingKey": "",
+    "position": {
+      "x": -30,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "b42d149b-e6dc-4d3d-be8a-f531e49ea3a7",
+    "bindingKey": "",
+    "position": {
+      "x": -20,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "38397d9a-e2ff-4875-bc02-3a9630be2020",
+    "bindingKey": "",
+    "position": {
+      "x": -10,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "d6664c4b-db1a-42f8-bd1b-4a1f71babc2b",
+    "bindingKey": "",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "e3cfb665-a72b-4415-9ebc-998e28da6b14",
+    "bindingKey": "",
+    "position": {
+      "x": 10,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "ddc55bdc-ec33-48dc-83ca-f3cd31cb792e",
+    "bindingKey": "",
+    "position": {
+      "x": 20,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "4603b4c5-8a3e-4b8e-bdee-f416b4694f73",
+    "bindingKey": "",
+    "position": {
+      "x": 30,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "82f5f7e2-5e02-4cf4-a30c-800a261356a1",
+    "bindingKey": "",
+    "position": {
+      "x": 40,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "31d5db33-5671-4e50-915a-43301b931012",
+    "bindingKey": "",
+    "position": {
+      "x": 50,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "fdd41bec-43dc-4fc4-8d8d-4a6e1514c108",
+    "bindingKey": "",
+    "position": {
+      "x": 60,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "84d46e8d-c69c-4b54-8780-ecc8856a1f8b",
+    "bindingKey": "",
+    "position": {
+      "x": 70,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "88df3504-0464-48af-979c-6bc2ec65daf6",
+    "bindingKey": "",
+    "position": {
+      "x": 80,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "0e933bc6-95d8-4391-8ba8-6b36cfd3451a",
+    "bindingKey": "",
+    "position": {
+      "x": 90,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "04634388-25af-4979-8295-65e3fa1c5e33",
+    "bindingKey": "",
+    "position": {
+      "x": 100,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "24846545-da6c-4f88-af03-5cbdd8aa4af5",
+    "bindingKey": "",
+    "position": {
+      "x": 110,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "9fb0a842-674e-4c17-b1ed-3aeca761e6b2",
+    "bindingKey": "",
+    "position": {
+      "x": 120,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "a4a1ead9-1b02-476f-aa55-91c6be3ce846",
+    "bindingKey": "",
+    "position": {
+      "x": 130,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "1ab502c4-ebbe-481b-be6a-7adf47b339fc",
+    "bindingKey": "",
+    "position": {
+      "x": 140,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "38d6f7ae-6cae-4b8c-92db-671a580daf5d",
+    "bindingKey": "",
+    "position": {
+      "x": 150,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "1d18de86-3786-4f92-bcbf-113a1166a77b",
+    "bindingKey": "",
+    "position": {
+      "x": -100,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "2fff4c38-599c-4e4c-9a81-96b1820d4634",
+    "bindingKey": "",
+    "position": {
+      "x": -90,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "64349d97-5416-4e48-93ad-b36b08b98be2",
+    "bindingKey": "",
+    "position": {
+      "x": -80,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "b5f0057c-cfb5-490d-9c3f-cd185c7b3eaf",
+    "bindingKey": "",
+    "position": {
+      "x": -70,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "265f7e18-7a05-4162-8807-41d7c358f285",
+    "bindingKey": "",
+    "position": {
+      "x": -60,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "38ed6327-e27b-4af2-8da4-6e58844ed7d3",
+    "bindingKey": "",
+    "position": {
+      "x": -50,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "c0c41b8f-48c2-4cfd-a83a-9b9c3c9560b9",
+    "bindingKey": "",
+    "position": {
+      "x": -40,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "68d8ea52-d12c-4482-8a4f-f6876d74b74c",
+    "bindingKey": "",
+    "position": {
+      "x": -30,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "f0ccbe70-b433-41b1-a213-e8e64eb23ace",
+    "bindingKey": "",
+    "position": {
+      "x": -20,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "b5e93430-169b-4542-bbf6-b99106fd5be9",
+    "bindingKey": "",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "3f0d18a9-b051-45b4-94a3-e9ae9647dbb9",
+    "bindingKey": "",
+    "position": {
+      "x": -10,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "eff5c46d-f728-42ae-b47e-448d6d6c2e64",
+    "bindingKey": "",
+    "position": {
+      "x": 10,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "77ac3de3-4cdf-4618-8495-5155e71bdce7",
+    "bindingKey": "",
+    "position": {
+      "x": 20,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "4b634438-0258-422d-8586-19694be8bcbd",
+    "bindingKey": "",
+    "position": {
+      "x": 30,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "f392aaa9-1e4e-4d11-a244-99c0f1d83143",
+    "bindingKey": "",
+    "position": {
+      "x": 40,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "e6c2c003-505e-43c4-b63f-f22f6f59176d",
+    "bindingKey": "",
+    "position": {
+      "x": 50,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "14c07ffe-6e51-4d32-bc7b-29fc18b85fae",
+    "bindingKey": "",
+    "position": {
+      "x": 60,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "1bef706f-744c-4235-9756-35d51bcd74cc",
+    "bindingKey": "",
+    "position": {
+      "x": 70,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "d26639d3-9077-4b6a-9ba9-3da87bfc6df7",
+    "bindingKey": "",
+    "position": {
+      "x": 80,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "95f24222-8f22-43dc-9b28-b17b9cbc8fab",
+    "bindingKey": "",
+    "position": {
+      "x": 90,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "62f76a66-4362-487e-8f13-a07e04e0b327",
+    "bindingKey": "",
+    "position": {
+      "x": 100,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "58d1c63d-6de8-4776-9714-085b95ed45d4",
+    "bindingKey": "",
+    "position": {
+      "x": 110,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "1fffc2f2-3604-4653-bc25-dae561d552eb",
+    "bindingKey": "",
+    "position": {
+      "x": 120,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "ece01e7f-42b9-4114-89f6-f87233e92144",
+    "bindingKey": "",
+    "position": {
+      "x": 130,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "cda7a432-9b1f-4b7c-8640-91a55cbcf616",
+    "bindingKey": "",
+    "position": {
+      "x": 140,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "850e25cd-a08b-4d20-8aa3-2f02bcdea1be",
+    "bindingKey": "",
+    "position": {
+      "x": 150,
+      "y": 0,
+      "z": -20
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "4e1802ee-6d3b-47bf-a6d6-0017df4cba4b",
+    "bindingKey": "",
+    "position": {
+      "x": -100,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "6d0d7c10-19fc-4727-b083-4b30f5442102",
+    "bindingKey": "",
+    "position": {
+      "x": -90,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "5b82de44-8a8d-45da-8ce6-d15ba7c0fe34",
+    "bindingKey": "",
+    "position": {
+      "x": -80,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "c06a7803-4793-4c0a-ab72-b8ddfcc4cbaf",
+    "bindingKey": "",
+    "position": {
+      "x": -70,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "f8de3ea9-bc35-487d-b0cf-0fcccd9ae630",
+    "bindingKey": "",
+    "position": {
+      "x": -60,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "afc08214-3401-4228-b98b-e299132d4cd2",
+    "bindingKey": "",
+    "position": {
+      "x": -50,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "e6925d16-fd0d-4b5b-8797-ba3d44075841",
+    "bindingKey": "",
+    "position": {
+      "x": -40,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "46e2e810-9179-4bd7-82b5-86c10e2068d6",
+    "bindingKey": "",
+    "position": {
+      "x": -30,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "764cf161-249c-46c4-90cb-64c9f6562366",
+    "bindingKey": "",
+    "position": {
+      "x": -20,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "fa8c6ead-72ec-4e1a-bce0-06a4de471ddf",
+    "bindingKey": "",
+    "position": {
+      "x": -10,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "8d45762d-8ef7-46cd-bee3-56782e278e5a",
+    "bindingKey": "",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "ce3351ad-1ecb-4bd8-9ab7-019ac0fb24c2",
+    "bindingKey": "",
+    "position": {
+      "x": 10,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "69d846f9-ba05-44cb-870f-cdb035c4b10f",
+    "bindingKey": "",
+    "position": {
+      "x": 20,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "f56dce68-da84-4d79-b312-7dc98c2bfb3b",
+    "bindingKey": "",
+    "position": {
+      "x": 30,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "0caf3e41-3177-4dde-a651-173fd56f527c",
+    "bindingKey": "",
+    "position": {
+      "x": 40,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "6b1794af-73c8-49c4-ab74-58c212801805",
+    "bindingKey": "",
+    "position": {
+      "x": 50,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "c3f12230-7f74-48cc-8287-605ebb388773",
+    "bindingKey": "",
+    "position": {
+      "x": 70,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "1b21ddd8-39f7-4297-9514-932b31fc5a32",
+    "bindingKey": "",
+    "position": {
+      "x": 60,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "96eb943a-fa5e-49bc-b8cb-372391d7ff2e",
+    "bindingKey": "",
+    "position": {
+      "x": 80,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "ed1fb0ef-f127-476b-bbc6-b543b4e34882",
+    "bindingKey": "",
+    "position": {
+      "x": 90,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "6fa46e52-c28e-48dc-b963-fa90f72b8d0f",
+    "bindingKey": "",
+    "position": {
+      "x": 100,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "4a5821a3-add3-4cb6-8a1a-96a93a38eaa4",
+    "bindingKey": "",
+    "position": {
+      "x": 110,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "04f5f114-ab18-4e08-a930-79806a6becc5",
+    "bindingKey": "",
+    "position": {
+      "x": 120,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "33814fba-5e4a-46ac-bd62-452b0f91f836",
+    "bindingKey": "",
+    "position": {
+      "x": 130,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "bb3d6bdb-9523-4365-b6c9-ad510642ab93",
+    "bindingKey": "",
+    "position": {
+      "x": 140,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 3,
+    "prefabKey": "a0aadc12-94f2-485a-8725-12b45201946f",
+    "bindingKey": "",
+    "position": {
+      "x": 150,
+      "y": 0,
+      "z": -40
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isCasting": false,
+    "isAnim": false,
+    "isPosition": false
+  },
+  {
+    "prefabType": 2,
+    "prefabKey": "09d502c3-d061-4d8d-931e-d46d091c4933",
+    "bindingKey": "01001",
+    "position": {
+      "x": -130,
+      "y": 0,
+      "z": 70
+    },
+    "rotation": {
+      "x": 0,
+      "y": 270,
+      "z": 0
+    },
+    "isCasting": true,
+    "isAnim": true,
+    "isPosition": true
+  },
+  {
+    "prefabType": 10,
+    "prefabKey": "eca45a0e-df88-4d95-8a58-54205a360c03",
+    "bindingKey": "02055",
+    "position": {
+      "x": -170,
+      "y": 0,
+      "z": 110
+    },
+    "rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 10,
+    "prefabKey": "55be161a-7fdb-44c5-872f-4cccc72c3a08",
+    "bindingKey": "02063",
+    "position": {
+      "x": -160,
+      "y": 0,
+      "z": 30
+    },
+    "rotation": {
+      "x": 0,
+      "y": 270,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 20,
+    "prefabKey": "1483f2e2-1d7d-4afd-b91b-6c476bb09dc7",
+    "bindingKey": "02057",
+    "position": {
+      "x": -200,
+      "y": 0,
+      "z": 120
+    },
+    "rotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 20,
+    "prefabKey": "305a8eb2-746b-47ef-ae1a-5ae6d05c3410",
+    "bindingKey": "02052",
+    "position": {
+      "x": -160,
+      "y": 0,
+      "z": 70
+    },
+    "rotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 20,
+    "prefabKey": "a02255bf-98d1-4653-95bc-72b304caa510",
+    "bindingKey": "02064",
+    "position": {
+      "x": -170,
+      "y": 0,
+      "z": 50
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isAnim": true,
+    "isPosition": false
+  },
+  {
+    "prefabType": 1,
+    "prefabKey": "d76584f6-acdb-4f4b-b6e5-a32b908dc649",
+    "bindingKey": "01001",
+    "position": {
+      "x": -110,
+      "y": 0,
+      "z": 50
+    },
+    "rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "isCasting": true,
+    "isAnim": true,
+    "isPosition": true
+  },
+  {
+    "prefabType": 1,
+    "prefabKey": "2b2d7f58-3fdb-4197-8294-15c3ce881fb3",
+    "bindingKey": "",
+    "position": {
+      "x": -110,
+      "y": 0,
+      "z": 10
+    },
+    "rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "isCasting": true,
+    "isAnim": true,
+    "isPosition": true
+  },
+  {
+    "prefabType": 1,
+    "prefabKey": "9bc25ecf-e492-48f9-be9b-985c2fb7c82c",
+    "bindingKey": "",
+    "position": {
+      "x": -110,
+      "y": 0,
+      "z": -30
+    },
+    "rotation": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "isCasting": true,
+    "isAnim": true,
+    "isPosition": true
+  }
+]

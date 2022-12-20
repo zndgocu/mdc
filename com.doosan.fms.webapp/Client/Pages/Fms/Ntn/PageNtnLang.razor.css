@@ -1,0 +1,10 @@
+﻿.grid-container {
+    display: grid;
+    width: 100%;
+    min-width: 100%;
+    grid-template-columns: 1fr 2fr;
+}
+
+    .grid-container .grid-item {
+        display: grid;
+    }

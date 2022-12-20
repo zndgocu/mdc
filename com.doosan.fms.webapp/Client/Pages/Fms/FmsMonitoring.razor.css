@@ -1,0 +1,42 @@
+﻿.ws-body {
+    top: calc(var(--mud-appbar-height) - var(--mud-appbar-height)/4);
+    width: 100%;
+    height: calc(100vh - calc(var(--mud-appbar-height) - var(--mud-appbar-height)/4));
+    min-height: calc(100vh - calc(var(--mud-appbar-height) - var(--mud-appbar-height)/4));
+}
+.canvas-body {
+    z-index: 1 !important;
+    position: absolute !important;
+    width: 100% !important;
+    min-width: 100% !important;
+    height: 100% !important;
+    min-height: 100% !important;
+}
+
+.ws-ui-body {
+    top: calc(var(--mud-appbar-height) - var(--mud-appbar-height)/4);
+    right: 0px;
+    position:absolute;
+    z-index: 9999;
+}
+
+
+.ws-ui {
+    top: calc(var(--mud-appbar-height) - var(--mud-appbar-height)/4);
+    right: 0px;
+    position: absolute;
+    z-index: 9999;
+}
+    .ws-ui .ws-ui-menu-button {
+        top: calc(var(--mud-appbar-height) - var(--mud-appbar-height)/4);
+        right: 0px;
+        text-align:right;
+    }
+    .ws-ui .ws-ui-menu {
+        top: calc(var(--mud-appbar-height) - var(--mud-appbar-height)/4 + 5);
+        right: 0px;
+        display:flex;
+        place-content:center;
+        text-align-last:center;
+    }
+    

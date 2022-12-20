@@ -1,0 +1,39 @@
+﻿@page "/login"
+@inherits FmsRazorAbstract
+
+@using com.doosan.fms.webapp.Client.RazorLibrary.Abstract
+@using com.doosan.fms.webapp.Client.ComponentLibrary.ComponentInputForm.RazorPage
+
+<MudContainer MaxWidth="MaxWidth.ExtraExtraLarge" Fixed="true" Style="padding: 0px !important; margin:0px !important;">
+    <div class="ws-body grid-container">
+        <div class='login-container align-item-center'>
+            <div class="login-item grid-header"/>
+            <div class="login-item grid-body">
+                <div class="login-container-wrapper round-border-box">
+                    <div class="login-header img-register" />
+                    <div class="login-body">
+                        <div class="full-content">
+                            <div class="content-header">
+                                <b>Doosan-WCS</b>
+                            </div>
+                            <div class="content-body">
+                                <div class="login-wrapper-box">
+                                    <ComponentInputForm @ref="_ref" InputFormDataObject="@_inputFormDataObject" LangProvider="LangProvider"/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="login-item grid-l"></div>
+            <div class="login-item grid-r"></div>
+            <div class="login-item grid-footer"></div>
+        </div>
+    </div>
+</MudContainer>
+
+
+@code {
+
+}

@@ -1,0 +1,37 @@
+﻿@using com.doosan.fms.webapp.Client.ComponentLibrary.ComponentTimeline.DataObject
+@using com.doosan.fms.webapp.Client.ComponentLibrary.CommonDataObject.Args
+
+
+@if (TimelineDataObject != null)
+{
+    @if (TimelineDataObject.HrefList != null)
+    {
+        @if (TimelineDataObject.HrefList.Count > 0)
+        {
+            <MudTimeline TimelineOrientation=@TimelineDataObject.TimelineProperties.Orientation
+                         TimelinePosition=@TimelineDataObject.TimelineProperties.Position
+                         Reverse=@TimelineDataObject.TimelineProperties.Reverse>
+                @foreach (HrefArgs args in TimelineDataObject.HrefList)
+                {
+                    <MudTimelineItem Color="Color.Primary" Elevation="25" @onclick="( () => OnTimelineItemClick(args))">
+                        <ItemOpposite>
+                            <MudText Color="Color.Primary" Typo="Typo.h6">@args.GetTime()</MudText>
+                        </ItemOpposite>
+                        <ItemContent>
+                            <MudAlert Severity="@GetRandomServerity()" NoIcon="true">
+                                <MudText Color="Color.Info" Typo="Typo.h6">@args.GetText()</MudText>
+                                <MudText Color="Color.Primary" Typo="Typo.body1">@args.GetContens()</MudText>
+                            </MudAlert>
+                        </ItemContent>
+                    </MudTimelineItem>
+                }
+            </MudTimeline>
+        }
+    }
+}
+
+
+
+@code {
+
+}

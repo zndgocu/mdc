@@ -1,0 +1,13 @@
+﻿
+.img-register {
+    background: url("../../images/brand/Doosan_logo.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.img-favicon-doosan {
+    background: url("../../favicon/Doosan_logo.png");
+    background-position: center;
+    background-size: 100% 100%;
+}

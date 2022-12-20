@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.doosan.fms.webapp.Server", "Server\com.doosan.fms.webapp.Server.csproj", "{AA8FB068-FBE9-48CA-9BA5-FF555E5E3359}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.doosan.fms.webapp.Client", "Client\com.doosan.fms.webapp.Client.csproj", "{DB42E03C-363D-4A3A-B87C-58B711576818}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.doosan.fms.commonLib", "..\com.doosan.fms.commonLib\com.doosan.fms.commonLib.csproj", "{78852B8A-B459-4957-8D6C-7E13CDFEBAE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.doosan.fms.mdc", "..\com.doosan.fms.mdc\com.doosan.fms.mdc.csproj", "{6FC52C0E-FB4E-45CF-BC14-7011F82A6B6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.doosan.fms.model", "..\com.doosan.fms.model\com.doosan.fms.model.csproj", "{E495CB66-F047-4A96-BBCB-B287DA90BC19}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.doosan.fms.signalRHub", "..\com.doosan.fms.signalRHub\com.doosan.fms.signalRHub.csproj", "{46EC2DD7-8CC8-4849-9B2E-47DE1770CA40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.doosan.multiDatabaseDriver", "..\com.doosan.multiDatabaseDriver\com.doosan.multiDatabaseDriver.csproj", "{475D710E-5260-4224-82B5-0269FF97B113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8FB068-FBE9-48CA-9BA5-FF555E5E3359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8FB068-FBE9-48CA-9BA5-FF555E5E3359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8FB068-FBE9-48CA-9BA5-FF555E5E3359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8FB068-FBE9-48CA-9BA5-FF555E5E3359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB42E03C-363D-4A3A-B87C-58B711576818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB42E03C-363D-4A3A-B87C-58B711576818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB42E03C-363D-4A3A-B87C-58B711576818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB42E03C-363D-4A3A-B87C-58B711576818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78852B8A-B459-4957-8D6C-7E13CDFEBAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78852B8A-B459-4957-8D6C-7E13CDFEBAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78852B8A-B459-4957-8D6C-7E13CDFEBAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78852B8A-B459-4957-8D6C-7E13CDFEBAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC52C0E-FB4E-45CF-BC14-7011F82A6B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC52C0E-FB4E-45CF-BC14-7011F82A6B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC52C0E-FB4E-45CF-BC14-7011F82A6B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC52C0E-FB4E-45CF-BC14-7011F82A6B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E495CB66-F047-4A96-BBCB-B287DA90BC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E495CB66-F047-4A96-BBCB-B287DA90BC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E495CB66-F047-4A96-BBCB-B287DA90BC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E495CB66-F047-4A96-BBCB-B287DA90BC19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46EC2DD7-8CC8-4849-9B2E-47DE1770CA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46EC2DD7-8CC8-4849-9B2E-47DE1770CA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46EC2DD7-8CC8-4849-9B2E-47DE1770CA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46EC2DD7-8CC8-4849-9B2E-47DE1770CA40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{475D710E-5260-4224-82B5-0269FF97B113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475D710E-5260-4224-82B5-0269FF97B113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475D710E-5260-4224-82B5-0269FF97B113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475D710E-5260-4224-82B5-0269FF97B113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAD38379-015A-4CB6-887E-8EFBD730A2F0}
+	EndGlobalSection
+EndGlobal

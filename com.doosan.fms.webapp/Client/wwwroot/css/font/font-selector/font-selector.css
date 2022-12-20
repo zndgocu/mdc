@@ -1,0 +1,24 @@
+﻿@import url(../font-factory/KR/notosanskr.css);
+@import url(../font-factory/CN/notosanscn.css);
+@import url(../font-factory/VN/opensansvn.css);
+
+
+/*  한국어 */
+:lang(kr) {
+    font-family: 'Noto Sans KR', sans-serif, 'Font Awesome 5 Free';
+}
+
+/*  영어 */
+:lang(us) {
+    font-family: 'Noto Sans KR', sans-serif, 'Font Awesome 5 Free';
+}
+
+/*  중국어 */
+:lang(cn) {
+    font-family: 'Noto Sans CN', sans-serif, 'Font Awesome 5 Free';
+}
+
+/*  베트남어 */
+:lang(vn) {
+    font-family: 'Open Sans VN', sans-serif, 'Font Awesome 5 Free';
+}

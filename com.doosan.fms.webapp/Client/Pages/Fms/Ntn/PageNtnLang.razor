@@ -1,0 +1,26 @@
+﻿@page "/fms/ntn-lang"
+
+@using com.doosan.fms.model.Runtime
+@using com.doosan.fms.webapp.Client.ComponentLibrary.ComponentGrid.RazorPage
+@using com.doosan.fms.webapp.Client.RazorLibrary.Abstract
+
+@inherits FmsRazorAbstract
+
+<MudContainer MaxWidth="MaxWidth.ExtraExtraLarge" Fixed="true" Style="padding: 0px !important; margin:0px !important;">
+    <div class="grid-container">
+        <div class="grid-item">
+            <ComponentGrid @ref="@_refNtnChoose"
+                           Titem="NtnLang"
+                           GridDataObject="@_dataObjectNtnChoose" />
+        </div>
+        <div class="grid-item">
+            <ComponentGrid @ref="@_refNtnAll"
+                           Titem="NtnLang"
+                           GridDataObject="@_dataObjectNtnAll" />
+        </div>
+    </div>
+</MudContainer>
+
+@code {
+
+}
